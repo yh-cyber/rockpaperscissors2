@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Main {
 
   static int newUserPoints; 
-  static int newComputerPoints; //Globalize Variable so I can use it in and out of loops: Source - https://stackoverflow.com/questions/4646577/global-variables-in-java
+  static int newComputerPoints; //Globalize Variable so I can use it in and out of the main method
 
 
   /* This is the main method that runs the game program. */
