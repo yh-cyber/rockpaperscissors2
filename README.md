@@ -1,39 +1,8 @@
 # Java Hello World Project
 
-This project is a simple Java application that prints "Hello, World!" to the console.
+This program is a game of modified Rock, Paper, Scissors. It is called Dragon, Knight, and Wizard, where the player competes against the computer. The game will randomly generate the algorithm's choice, store points in an array and determine the winner based on the rules.
 
-## Project Structure
-
-```
-java-hello-world
-├── src
-│   └── main
-│       └── java
-│           └── HelloWorld.java
-├── .gitignore
-├── build.gradle
-└── README.md
-```
-
-## Requirements
-
-- Java Development Kit (JDK) installed on your machine.
-- Gradle installed for building the project.
-
-## Building the Project
-
-To build the project, navigate to the project directory and run:
-
-```
-gradle build
-```
 
 ## Running the Application
 
-After building the project, you can run the application using the following command:
-
-```
-java -cp build/classes/java/main HelloWorld
-```
-
-This will execute the `HelloWorld` class and print "Hello, World!" to the console.
+Application can run on any console that takes Java commands. 
